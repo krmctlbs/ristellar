@@ -1,5 +1,7 @@
 # Stellar Event Ticketing System
 
+It is pre-work and made with AI tools in a short period of time. It's a MVP. More debugging and improvements are on the way. It does not certain that all the functionalities mentioned below fully works with-without errors.
+
 A decentralized event ticketing system built on Stellar Soroban smart contracts. This project demonstrates NFT-like ticket ownership, event creation, ticket purchasing, and transfer capabilities on the Stellar blockchain.
 
 ## 🎫 Features
